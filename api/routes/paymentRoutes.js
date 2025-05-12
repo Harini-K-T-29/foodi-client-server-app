@@ -93,7 +93,7 @@ router.delete("/:id", verifyToken, verfiyAdmin, async (req, res) => {
   }
 });
 
-router.get("/:id", verifyToken, async (req, res) => {
+router.get("/:id", async (req, res) => {
   const transactionId = req.params.id;
   try {
     const order = await Payment.findOne({ transactionId });
