@@ -11,13 +11,8 @@ const Menu = require("./api/models/Menu");
 // console.log(process.env.DB_USER);
 
 //middleware
-// app.use(cors({ origin: "http://localhost:5173" }));
 app.use(express.json());
-const allowedOrigins = [
-  "http://localhost:5173",
-  "https://foodi-client-server-app.onrender.com",
-  "https://your-client-app.onrender.com", // Add your frontend Render URL here
-];
+const allowedOrigins = process.env.ALLOWED_ORIGINS.split(",");
 
 app.use(
   cors({
