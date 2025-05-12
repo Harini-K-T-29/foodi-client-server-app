@@ -11,8 +11,26 @@ const Menu = require("./api/models/Menu");
 // console.log(process.env.DB_USER);
 
 //middleware
-app.use(cors({ origin: "http://localhost:5173" }));
+// app.use(cors({ origin: "http://localhost:5173" }));
 app.use(express.json());
+const allowedOrigins = [
+  "http://localhost:5173",
+  "https://foodi-client-server-app.onrender.com",
+  "https://your-client-app.onrender.com", // Add your frontend Render URL here
+];
+
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
+    credentials: true,
+  })
+);
 
 mongoose
   .connect(
