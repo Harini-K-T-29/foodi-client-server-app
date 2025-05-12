@@ -12,7 +12,7 @@ const Menu = require("./api/models/Menu");
 
 //middleware
 app.use(express.json());
-const allowedOrigins = process.env.ALLOWED_ORIGINS.split(",");
+const allowedOrigins = (process.env.ALLOWED_ORIGINS || "").split(",");
 
 app.use(
   cors({
