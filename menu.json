@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Vegetable Soup",
+    "recipe": "The perfect cold-weather soup: Easy, and so tasty. My family has served this on Christmas night for years.",
+    "image": "https://www.allrecipes.com/thmb/FFffBK7J_ZNcaYg3aDh-bMCtrww=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/832337-58a14de21c32473c9a0c471ae5b50915.jpg",
+    "category": "popular",
+    "price": 80
+  },
+  {
+    "name": "Orange juice",
+    "recipe": "a popular beverage made by squeezing or extracting the juice from oranges, offering a sweet and tangy flavor, and is often enjoyed as a refreshing drink or part of breakfast",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "drinks",
+    "price": 10
+  },
+  {
+    "name": "California Italian Soup",
+    "recipe": "This is my variation of a standard Italian wedding soup recipe. I like fresh basil and a little lemon rind, so those are basically my only changes. This is a quick and easy soup with flavors that impress all.",
+    "image": "https://www.allrecipes.com/thmb/4f3QxBd5q_BTwT2fOw9UQzPqkpk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1328849_original-22a3f27453e948c59fba51ebb6367da4.jpg",
+    "category": "soup",
+    "price": 854.63
+  },
+  {
+    "name": "Carb Cauliflower Soup ",
+    "recipe": "This cauliflower and leek soup recipe has no potato which makes it great for those counting carbs or just looking for a different vegetarian soup.",
+    "image": "https://www.allrecipes.com/thmb/d5xUlkoohJOOEo2fDudNzNZYsvQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/429094-low-carb-cauliflower-leek-soup-Melissa-Goff-4x3-1-d980c2a6260a4f4e9b5c7bb4079c2a35.jpg",
+    "category": "soup",
+    "price": 450
+  },
+  {
+    "name": "Italian Mushroom and Potato Soup",
+    "recipe": "I make this soup every Halloween and is the 'signal' to the family that the cool weather has arrived",
+    "image": "https://www.allrecipes.com/thmb/kwWpl1vzLC4yaBYSIXEM60-KRsM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/80773russian-mushroom-and-potato-soupsouplovingnicole4x3-87fbf23b35424b0c817c594e18ad36b6.jpg",
+    "category": "popular",
+    "price": 110
+  },
+  {
+    "name": "Orange Creamsicle Shake",
+    "recipe": "This orange creamsicle shake is made with fresh frozen orange juice, sugar-free creamer, and sugar free whipped cream for a low calorie but oh-so-delicious shake.",
+    "image": "https://www.allrecipes.com/thmb/srpcG3orhvchjKlanxEkqrl42BE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11697327_Orange-Creamsicle-Shake_Yolanda-Gutierrez_4x3-3d5be23077714affb79503da5c24a55e.jpg",
+    "category": "drinks",
+    "price": 150
+  },
+  {
+    "name": "Strawberry Jargarita",
+    "recipe": "Strawberry preserves, tequila, orange liqueur, fresh lime juice, and ice to a jar fitted with a lid or shaker. Close jar and shake until slightly frothy. ",
+    "image": "https://www.allrecipes.com/thmb/vpyXPWjMs90WeDPzUz0cOM-mV7I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11695864_Jargaritas4x3-8c5759a5603e4beb88910e0a01488493.jpg",
+    "category": "drinks",
+    "price": 366
+  },
+  {
+    "name": "Limoncello Basil Spritz",
+    "recipe": "This big batch limoncello basil spritz combines sweet-tart limoncello, bubbly Prosecco, sparkling water, and zesty basil for a refreshing summer drink",
+    "image": "https://www.allrecipes.com/thmb/uj5PY4gQRT8M_Gv2XNjZW-Pvg6c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Big-Batch-Limoncello-Basil-Spritz-8598096-ddmfs-3x4-0c5c199e2fcb41cabab7d962e15d2c88.jpg",
+    "category": "drinks",
+    "price": 485
+  },
+  {
+    "name": "Guavarita (Guava Margarita)",
+    "recipe": "This guavarita, or guava margarita, made with guava nectar, tequila, and agave syrup, is simply delicious.",
+    "image": "https://www.allrecipes.com/thmb/yv3e2gii0ncQ4s49umBePEr2__w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8780541_Guavarita-Guava-Margarita_Yolanda-Gutierrez_4x3-9abfd241c503471a91c380721f122ab7.jpg",
+    "category": "drinks",
+    "price": 321
+  },
+  {
+    "name": "Lemonade",
+    "recipe": "This lemonade recipe makes a very refreshing drink!",
+    "image": "https://www.allrecipes.com/thmb/Z5xioduNjcNryQgkyaPRpNqfXvQ=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/32385-best-lemonade-ever-DDMFS-4x3-8cef7761205e417499c89eb178e5ba2b.jpg",
+    "category": "popular",
+    "price": 92
+  },
+  {
+    "name": "Mango Drink",
+    "recipe": "Fresh fruit is put on display this smoothie that's rich in vitamin C.",
+    "image": "https://www.allrecipes.com/thmb/7GqPmZSk_yQpOTotXiXviwtkoZM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Yummy-Mango-Citrus-Drink-by-MattOlay-V-H-7ee2cfa4310247ce9149e7384aaed1de.jpg",
+    "category": "drinks",
+    "price": 57
+  },
+  {
+    "name": "Pineapple Sunrise",
+    "recipe": "Pineapple and lime help tone down the sweetness of an otherwise all-carrot juice",
+    "image": "https://www.allrecipes.com/thmb/jyw22gSS7Bw4vySsU9dPq3fxlFY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pineapple-Sunrise-by-France-C-2f7fe9130fa248299e45910a7cef1b65.jpg",
+    "category": "drinks",
+    "price": 130
+  },
+  {
+    "name": "Blackberry Margarita",
+    "recipe": "For this blackberry margarita, fresh blackberries are muddled to release their vibrant juices, then combined with smooth tequila, orange liqueur, simple syrup and a splash of lime juice, making this margarita both bold and refreshing.",
+    "image": "https://www.allrecipes.com/thmb/vHVV28qIYHKM6Aq2-qvSxOhQt9o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8717118_Blackberry-Margarita_France-Cevallos_4x3-ff68c2cee7854a2792f9d225ab6e4dc1.jpg",
+    "category": "drinks",
+    "price": 699
+  },
+  {
+    "name": "Potato Salad",
+    "recipe": "This potato salad recipe is for the traditional creamy type of potato salad, with eggs, celery, and relish. It's perfect for making ahead to let the flavors develop.",
+    "image": "https://www.allrecipes.com/thmb/2ZSXc0dmjhVNKNycjzIu_xHecsM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16729-old-fashioned-potato-salad-DDMFS-4x3-3e270b1b82744aa6ac355fef41a5a43c.jpg",
+    "category": "salad",
+    "price": 770.79
+  },
+  {
+    "name": "Chicken Salad",
+    "recipe": "This chicken salad recipe is the best and a family favorite! I like to use leftover roast chicken or baked chicken breasts that have been sprinkled with basil or rosemary.",
+    "image": "https://www.allrecipes.com/thmb/kDuUq7amJHbzRsBh8KaJpjNX06o=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8499-Best-Chicken-Salad-DDMFS-3X4-11915-d36a5b98b1e041b3b48b62ecdfa6029e.jpg",
+    "category": "salad",
+    "price": 109
+  },
+  {
+    "name": "Broccoli Salad",
+    "recipe": "This homemade broccoli salad uses a tasty combination of fresh broccoli, cranberries, nuts, and bacon tossed in a tangy creamy dressing. You might want to double this recipe for a party or potluck — it goes quick!",
+    "image": "https://www.allrecipes.com/thmb/9jZCAWhza7IztS1fjOtPEY2rBMs=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14280-fresh-broccoli-salad-DDMFS-beauty-4x3-bbd0690cac374b81a8f08cac7b28b41e.jpg",
+    "category": "salad",
+    "price": 145
+  },
+  {
+    "name": "Pasta Salad",
+    "recipe": "This pasta salad is nice and colorful, easy to make, and great for summer picnics or parties. The recipe was given to me by a dear friend many years ago, and I've been making it ever since!",
+    "image": "https://www.allrecipes.com/thmb/TLZs83FimfwATbwnpBKelVQ-elY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14385-pasta-salad-DDMFS-4x3-28eb5dbe00624780b36cabfef15ca183.jpg",
+    "category": "salad",
+    "price": 250
+  },
+  {
+    "name": "Crab Salad",
+    "recipe": "I came up with this crab salad recipe after trying for years to duplicate one made at a seafood market where I used to work.",
+    "image": "https://www.allrecipes.com/thmb/FIVC9USEa_pdxFeWqOtWDhfuBPo=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-232287-Mels-Crab-Salad-ddmfs-beauty-4x3-509140e1bd0d449690bec3280424db34.jpg",
+    "category": "salad",
+    "price": 595
+  },
+  {
+    "name": "Watergate Salad",
+    "recipe": "Watergate salad is an American classic. This delightful side dish salad or dessert is made with pistachio-flavored instant pudding mix, canned pineapple, mini marshmallows, nuts, and whipped topping.",
+    "image": "https://www.allrecipes.com/thmb/W5vqfjU833Lke6VvMcwgjO2aAr0=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-13811-watergate-salad-VAT-4x3-crop-06c814abbd624757ac328e135c3b9329.jpg",
+    "category": "salad",
+    "price": 658.47
+  },
+  {
+    "name": "Avocado Salad",
+    "recipe": "This avocado salad is a delicious combination of ripe avocados, sweet onions, fresh tomatoes, and cilantro.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F06%2F14%2F8555902-avocado-salad-maria-collins-4x3-1.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "salad",
+    "price": 270
+  },
+  {
+    "name": "Delicious Egg Salad",
+    "recipe": "This egg salad recipe is the best and easy to make with chopped hard-boiled eggs, mayonnaise, and mustard.",
+    "image": "https://www.allrecipes.com/thmb/5EZT3_DbTs6IWNXHQiZW5daKnsQ=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-147103-delicious-egg-salad-for-sandwiches-DDMFS-4x3-ab3abdebb3c44c4fa45f64377002c990.jpg",
+    "category": "salad",
+    "price": 179
+  },
+  {
+    "name": "Greek Salad",
+    "recipe": "This Greek salad recipe is perfect for summer when tomatoes and cucumbers taste best.",
+    "image": "https://www.allrecipes.com/thmb/ZPYjvwwieaWRL9R5EcdIn2UQM4M=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14373-GreekSaladi-mfs-4X3-0354-e8388819cafa4bae843ea433258aa03d.jpg",
+    "category": "popular",
+    "price": 350
+  },
+  {
+    "name": "Italian Pasta Salad",
+    "recipe": "This Italian pasta salad that's loaded with tri-color rotini pasta, salami, bell peppers, and mozzarella is quick to make and full of flavor for a delicious summer meal.",
+    "image": "https://www.allrecipes.com/thmb/jWmbmz5NbIOvGKTIpPsLSRLWDQg=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/222750-Quick-Italian-Pasta-Salad-DDMFS-3X4-0440-3fd1752b521542c49010e5ea07784d84.jpg",
+    "category": "popular",
+    "price": 211
+  },
+  {
+    "name": "Chicken Soup",
+    "recipe": "This homemade chicken soup recipe is well worth making — it's good for the body and the soul",
+    "image": "https://www.allrecipes.com/thmb/IhQhEfMAeIRupmvXn6DYrfF9zNs=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8814-homemade-chicken-soup-DDMFS-beauty-4x3-31640-924adc63a78543a7822c5704727f6e4b.jpg",
+    "category": "soup",
+    "price": 100
+  },
+  {
+    "name": "Watermelon Salad",
+    "recipe": "This watermelon salad is a surprising yet delicious combination of juicy watermelon, red onion, cucumber, and feta cheese.",
+    "image": "https://www.allrecipes.com/thmb/eMmAhdfbiunktt--qwNqCwvXm_o=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-111853-refreshing-watermelon-salad-VAT-4x3-A-57a44736879249f9a7eecae90fff4160.jpg",
+    "category": "salad",
+    "price": 90
+  },
+  {
+    "name": "Cucumber Tomato Salad",
+    "recipe": "This marinated cucumber tomato salad with crisp cucumbers and ripe juicy tomatoes has a delicious tangy flavor.",
+    "image": "https://www.allrecipes.com/thmb/FOOWcH_4hcqTh-kx50BnAh-548M=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/237984-Marinated-Cucunber-Onion-and-Tomato-Salad-DDMFS-3X4-11906-383c6af35f2a47d4a78996736e9bd5e4.jpg",
+    "category": "salad",
+    "price": 175
+  },
+  {
+    "name": "Taco Salad",
+    "recipe": "This taco salad is a tasty twist on the conventional taco salad.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2023%2F01%2F30%2F14253-Taco-Salad-ddmfs-016-4x3-1.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "salad",
+    "price": 1070.11
+  },
+  {
+    "name": "Three Bean Salad",
+    "recipe": "This tasty three bean salad is great for buffets, summer picnics, and cookouts.",
+    "image": "https://www.allrecipes.com/thmb/9m9dcQjWF_KH5vdOw0GSz-MK59w=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13637-three-bean-salad-DDMFS-4x3-411d1b4eab5b4d3c87ecaa92de784c67.jpg",
+    "category": "salad",
+    "price": 415.6
+  },
+  {
+    "name": "Cream Of Broccoli Soup",
+    "recipe": "This broccoli soup recipe is thick and flavorful. It is simple, delicious, and quick to make",
+    "image": "https://www.allrecipes.com/thmb/5O8yxoxCEZ6QM1Y9CVwy3sm_Yvs=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13313-best-cream-of-broccoli-soup-AllrecipesMagazine-4x3-495e6329745545a28c2a9b4e6ee3fab6.jpg",
+    "category": "soup",
+    "price": 436
+  },
+  {
+    "name": "Turkey Salad",
+    "recipe": "This turkey salad recipe makes a great spread for crackers or sandwiches.",
+    "image": "https://www.allrecipes.com/thmb/5Nv03Znzj6xcugKyPtTQFtzF7zQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/742936_Turkey-Salad-4x3-856b6dd8cd154db1b34971117c847b44.jpg",
+    "category": "salad",
+    "price": 855.18
+  },
+  {
+    "name": "Mushroom Soup",
+    "recipe": "I had a delicious bowl of cream of asparagus soup at a cute cafe while on a work trip in Oklahoma City several years ago",
+    "image": "https://www.allrecipes.com/thmb/FgTesbim0_cHB2QkZje0NDhIuto=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5318857-bde5864164934c6a85546972f3fe4710.jpg",
+    "category": "soup",
+    "price": 105
+  },
+  {
+    "name": "Classic Macaroni Salad",
+    "recipe": "This creamy macaroni salad always gets lots of compliments. It's an easy recipe to make with macaroni pasta, celery, onion, bell pepper, carrot, and pimentos and has a pleasing tangy dressing that everyone seems to love!",
+    "image": "https://www.allrecipes.com/thmb/mKxIbc9u3SM6YRsPvtGJLln4bso=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/81108-classic-macaroni-salad-DDMFS-4x3-42910f05970943f29b51282831dd98e6.jpg",
+    "category": "salad",
+    "price": 699
+  },
+  {
+    "name": "Caribbean Chicken Salad",
+    "recipe": "With just a few things done ahead of time, your Caribbean salad can be a breeze to make.",
+    "image": "https://www.allrecipes.com/thmb/pk987DTz4eUVsnIYlpbDfDRwjZ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1240494-145d22bb2f81402586bf75a9c43cc2a7.jpg",
+    "category": "salad",
+    "price": 110
+  },
+  {
+    "name": "Cherry Tomato Salad",
+    "recipe": "This summery cherry tomato salad with pine nuts, olives, and a homemade vinaigrette is colorful and delicious.",
+    "image": "https://www.allrecipes.com/thmb/k9GYWm914S1u5jMQIoXtHJrME5o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/876338-b704c494d1c44757bded2199182900a7.jpg",
+    "category": "salad",
+    "price": 56
+  },
+  {
+    "name": "Spinach Pasta Salad",
+    "recipe": "This spinach pasta salad has a tangy and garlicky lemon dressing. It's hearty, delicious, and enjoyed by all.",
+    "image": "https://www.allrecipes.com/thmb/Alqy1Ryk2CcjrnE7efhlAiMcO9Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16142-Spinach-Pasta-Salad-SoupLovingNicole-2000-2df2caa5ef52434693a9f3aaba5f2e3e.jpg",
+    "category": "salad",
+    "price": 190
+  },
+  {
+    "name": "Spring Salad",
+    "recipe": "People are surprised when they taste this salad with the odd combination of ingredients, but it's a very very good salad.",
+    "image": "https://www.allrecipes.com/thmb/v2Wwk1Smx0S3OAtigTAgLzQUjAQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/461429_Spring-Salad-4x3-f91dbe75875d49949f8451d37f013106.jpg",
+    "category": "salad",
+    "price": 650
+  },
+  {
+    "name": "French Onion Soup",
+    "recipe": "This is the best French onion soup recipe I know. I have been making it for 30 years and it never fails to please. It makes an exquisite presentation too!",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F94db1cc21e52e6b5ea6ce60de95244ac%2F1735515370997IMG_9503.jpeg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "soup",
+    "price": 1046.98
+  },
+  {
+    "name": "Honey Mustard Macaroni Salad",
+    "recipe": "This macaroni salad with mustard is a family recipe that was made for all holidays, cookouts, or family get-togethers",
+    "image": "https://www.allrecipes.com/thmb/_34pBAxDB7nzdflw7OtQHfeiuW8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/223422honey-mustard-macaroni-saladChristina4x3-8ea10bc4ada74aaea5ce54553734280e.jpg",
+    "category": "salad",
+    "price": 130
+  },
+  {
+    "name": "Mexican Cucumber Salad",
+    "recipe": "This Mexican cucumber salad is a combination of cool and crunchy vegetables with a zap of crushed red pepper and other seasonings.",
+    "image": "https://www.allrecipes.com/thmb/amd7xqquPSmJluvgupH8vXMQPTc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/212037-e5239507634c49cd9157aca334abb28b.jpg",
+    "category": "salad",
+    "price": 233
+  },
+  {
+    "name": "Mexican Pizza",
+    "recipe": "This Mexican pizza recipe layers delicious seasoned ground beef and refried beans between two crisp tortillas.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9130520.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "pizza",
+    "price": 239
+  },
+  {
+    "name": "Thin-Crust Pizza Dough",
+    "recipe": "This thin-crust pizza dough recipe is ready to bake in just 15 minutes with deliciously crisp results.",
+    "image": "https://www.allrecipes.com/thmb/Nb9YLqs0GDXM6kGZdg-ySY7Ee_Y=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/257198-thin-crust-pizza-ddmfs-hero-3x4-1090-2d4a9a4b7195425d922cbcd298d152ec.jpg",
+    "category": "pizza",
+    "price": 245
+  },
+  {
+    "name": "Carrot Soup",
+    "recipe": "This cream of carrot soup is my little picky eater's favorite soup",
+    "image": "https://www.allrecipes.com/thmb/TQ4dVgFGK6OtPBrFR8H-IRgmZ_A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/228514cream-of-carrot-soupReneePaj-846b5ce2d9c14e26b78dc1856f7e34d3.jpg",
+    "category": "soup",
+    "price": 425
+  },
+  {
+    "name": "Taco Pizza",
+    "recipe": "I was looking for a recipe for a taco pizza, but couldn't find exactly the kind I was wanting so I decide to wing it and came up with this one myself.",
+    "image": "https://www.allrecipes.com/thmb/0kQyaLTrecgfb4FrXnFEanqGa7Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/44410taco-pizzafabeveryday4x3-01863597aa224c32b35b970b5b744b20.jpg",
+    "category": "pizza",
+    "price": 139
+  },
+  {
+    "name": "Chicken Alfredo Pizza",
+    "recipe": "This Alfredo pizza recipe combines two of my favorites: chicken and pizza.",
+    "image": "https://www.allrecipes.com/thmb/sOYanUxGDSNNtcayqzc70a7023k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/170183-chicken-alfredo-pizza-Cheri-4x3-1-1deba0dc8bac430c901da80580398fbf.jpg",
+    "category": "pizza",
+    "price": 544
+  },
+  {
+    "name": "Pesto Pizza",
+    "recipe": "This pesto pizza can be made with your favorite prepared pesto or homemade pesto. It's so quick to make for a light and flavorful alternative to regular cheese and tomato pizza!",
+    "image": "https://www.allrecipes.com/thmb/IY6gXHP89oNP238BZWu25VC_zxc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/21528-Pesto-Pizza-dabblingdiva_5423214_original-4x3-1-cf97d756ed4947c69f9b9e0c3bb8a90c.jpg",
+    "category": "pizza",
+    "price": 440
+  },
+  {
+    "name": "Allie's Mushroom Pizza",
+    "recipe": "A simple mushroom pizza recipe with spinach and mozzarella.",
+    "image": "https://www.allrecipes.com/thmb/Xa5l3p_3XZdSqqYkODRhybDaIOA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/36107allies-mushroom-pizzafabeveryday4x3-005f809371b147378094d60f28daf212.jpg",
+    "category": "pizza",
+    "price": 219
+  },
+  {
+    "name": "Spicy Chicken Soup",
+    "recipe": "This is a great recipe that you can fix to your taste! The longer it simmers the better. Top with crushed tortilla chips and shredded cheese. Enjoy!",
+    "image": "https://www.allrecipes.com/thmb/ugf--C8Eaw5-AjYidouwETxIvDY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/698391_Catherines-Spicy-Chicken-Soup-4x3-f65c65297fc243698d8ef374eb3dac58.jpg",
+    "category": "soup",
+    "price": 110
+  },
+  {
+    "name": "Hot Pizza Dip",
+    "recipe": "This pizza dip has all your favorite pizza topping ingredients and is so easy to prep.",
+    "image": "https://www.allrecipes.com/thmb/DaQgdxh3e0PzJuFeDZDJ_1rOFrY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-14803-hot-pizza-dip-VAT-3x4-4-d7639575b8874169bc4d9d57dae5fb2e.jpg",
+    "category": "pizza",
+    "price": 489.61
+  },
+  {
+    "name": "Tomato Soup",
+    "recipe": "This tomato soup recipe is simple, quick, and perfect to make when tomatoes are ripe in gardens and farmers' markets for a delicious summertime treat",
+    "image": "https://www.allrecipes.com/thmb/tPyH_Dg5X1qaPteTwQj6-S4Jo2Q=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/39544-Garden-Fresh-Tomato-Soup-DDMFS-4x3-b8e94cf7ab8e42f4b79042fc0df55546.jpg",
+    "category": "soup",
+    "price": 103
+  },
+  {
+    "name": "Premium Pizza Crust",
+    "recipe": "This is a double-rise dough typical of Neapolitan pizza. Two different rise methods are provided, one overnight in refrigerator and the other with a sponge.",
+    "image": "https://www.allrecipes.com/thmb/heNjP2z_0w1z-K-G2L52FAuQqV4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7976366-2ed553d8b05145cf96b81377692773cb.jpg",
+    "category": "pizza",
+    "price": 890
+  },
+  {
+    "name": "Chicken Garlic Pizza",
+    "recipe": "This garlic chicken pizza is a delicious homemade meal! Butter garlic sauce, chicken, tomato, ricotta, and Parmesan are baked together for a delightfully light-tasting dish.",
+    "image": "https://www.allrecipes.com/thmb/3FHQAwYmO6J3gwrZaVEcsy10Y0A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4272-chicken-garlic-pizza-LynnInHK-4x3-1-b96e0e6999fb44df855104e6d34f4e41.jpg",
+    "category": "pizza",
+    "price": 279
+  },
+  {
+    "name": "Pizza Pasta Bake with Sausage",
+    "recipe": "This versatile one-dish pizza pasta bake uses your favorite pizza ingredients like bell pepper, sausage, pepperoni, and olives",
+    "image": "https://www.allrecipes.com/thmb/xjEIvwF_ubpJQlFFnpLLRUhUP1k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/236790pizza-pasta-bake-with-sausageTaylorBrott4x3-6d173425ef5f473499f3b021eece3897.jpg",
+    "category": "pizza",
+    "price": 230
+  },
+  {
+    "name": "Cauliflower Pizza Bites",
+    "recipe": "These cauliflower pizza rolls are easy to make, fun to eat, and always a crowd-pleaser.",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4564526.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "pizza",
+    "price": 1060.65
+  },
+  {
+    "name": "Portobello Pizza",
+    "recipe": "A delicious recipe that substitutes a portobello mushroom for a pizza crust.",
+    "image": "https://www.allrecipes.com/thmb/9AfqdHvOHGkMq5Ynxo7Bzq7hR8w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/149180-personal-portobello-pizza-SunnyByrd-4x3-1-2ac92d2f947a477d983902f9cad123a0.jpg",
+    "category": "pizza",
+    "price": 119
+  },
+  {
+    "name": "Baked Potato Soup",
+    "recipe": "This baked potato soup is thick, creamy, and an excellent way to use leftover baked potatoes. It's a family favorite in our house when it's cold and dark outside.",
+    "image": "https://www.allrecipes.com/thmb/HSJvIHzJ3z3E5yfoOZ82wjwljiY=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RM-12997-baked-potato-soup-ddmfs-3x4-2754-9c082a6703ef4a55bdcb9e6368f180e9.jpg",
+    "category": "soup",
+    "price": 1197.41
+  },
+  {
+    "name": "Cheesy Cream of Broccoli Soup",
+    "recipe": "It's simply made by combining broccoli, cream of mushroom soup, milk, and cheese.",
+    "image": "https://www.allrecipes.com/thmb/p5XFpcbn101_VGnNq0mGsUSmAh4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1416738-fe489376304849778b6946dc5987e994.jpg",
+    "category": "soup",
+    "price": 250
+  },
+  {
+    "name": "Chicken Noodle Soup",
+    "recipe": "It's very savory and tasty, and I think everyone will like it. Use smoked chicken for even more flavor!",
+    "image": "https://www.allrecipes.com/thmb/nNdAICKd8VDuI5RtpF7ETP6p63M=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13206-grandmas-chicken-noodle-soup-ddmfs-3x4-2637-2d2103938bc34c76ba48124794cf9b87.jpg",
+    "category": "soup",
+    "price": 595
+  },
+  {
+    "name": "Pumpkin Soup",
+    "recipe": "This pumpkin soup is deliciously creamy and smooth. Tender onions and garlic give it depth of flavor, and it's lovely seasoned with fresh herbs and spices",
+    "image": "https://www.allrecipes.com/thmb/h7eLDjujo7MFfB-uKd5zLskmHk0=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9191-PumpkinSoup-ddmfs-4X3-0150-0628bffddba64c2285d554ea97608f66.jpg",
+    "category": "soup",
+    "price": 140
+  },
+  {
+    "name": "White Bean Soup",
+    "recipe": "This hearty white bean soup is made with creamy cannellini beans and flavored with garlic and thyme. It's one of my family's favorite soups. Serve with grated Parmesan cheese.",
+    "image": "https://www.allrecipes.com/thmb/TsTzazM5PyMO_GSAFmdF3fnkUZM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13287-creamy-italian-white-bean-soup-DDMFS-4x3-2e7c6b3ff12f4349802c135d17ac8504.jpg",
+    "category": "soup",
+    "price": 453
+  },
+  {
+    "name": "Strawberry Brownies",
+    "recipe": "These easy strawberry brownies are made with strawberry cake mix, and iced with a fresh strawberry glaze.",
+    "image": "https://www.allrecipes.com/thmb/z8Kw49ypwDJUBxUD0_LqmrBrwEU=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/11696682_StrawberryBrowniesall4x3-7e600d05d1234aa1b4d75b83108a9883.jpg",
+    "category": "dessert",
+    "price": 340
+  },
+  {
+    "name": "Carrot Cake",
+    "recipe": "These carrot cake bars are slightly denser than a cake, but slightly fluffier than a brownie—and have a wonderful caramelly flavor, thanks to brown butter",
+    "image": "https://www.allrecipes.com/thmb/kBEUDMXh1Uh3fcas7U38ijoRPt8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7372763_Carrot-Cake-Bars_Kim_4x3-6a7553787a234762a8e7cd66348bcefa.jpg",
+    "category": "dessert",
+    "price": 435
+  },
+  {
+    "name": "Nutella Swirl Cheesecake Bars",
+    "recipe": "For these Nutella swirl cheesecake bars, a rich Nutella-swirled cheesecake filling sits atop an OREO and hazelnut-studded crust for a truly delectable dessert.",
+    "image": "https://www.allrecipes.com/thmb/suepePZLAp5JMSNG_Fq3F1XykiA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8779386_Nutella-Swirl-Cheesecake-Bars_Kim-Shupe_4x3-11dda5ec8c65438a89b07a301db86951.jpg",
+    "category": "dessert",
+    "price": 336
+  },
+  {
+    "name": "Lemon Crumb Cake",
+    "recipe": "This lemon crumb cake has lemon cake on the bottom, lemon curd in the center, and on the top is a lemon crumble topping.",
+    "image": "https://www.allrecipes.com/thmb/vdn3gcsDMbsZSr0fi4WSiCewr68=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8607720_Lemon-Crumb-Cake_Yolanda-Gutierrez_4x3-c619e557046c491481d631ad65862be6.jpg",
+    "category": "dessert",
+    "price": 256
+  },
+  {
+    "name": "Blackberry Dump Cake",
+    "recipe": "This blackberry dump cake is a real crowd-pleaser. Serve with ice cream or whipped topping.",
+    "image": "https://www.allrecipes.com/thmb/vbP7IcwXDaRRTDE6XYoami9Aiv8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Blackberry-dump-cake-fabeveryday-4x3-1-c1df3807448d4e62af6d642f06a99f84.jpeg",
+    "category": "dessert",
+    "price": 840
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "recipe": "This strawberry ice cream recipe uses egg yolks, cream, sugar, and fresh strawberries to make a fabulous frozen dessert.",
+    "image": "https://www.allrecipes.com/thmb/g9ZLXqHbYBwY4Z0lA6er9nkah-s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/815784-strawberry-ice-cream-lutzflcat-4x3-1-68425e5d8516423a9df91fce06aca9cb.jpg",
+    "category": "dessert",
+    "price": 125
+  },
+  {
+    "name": "Blueberry Shortcake",
+    "recipe": "Blueberries sandwiched between homemade shortcake topped with cream - blueberry shortcake is the perfect summer dessert.",
+    "image": "https://www.allrecipes.com/thmb/TTwnKfzLAeDWqfBk1Ywf2b7DR6Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7552490-blueberry-shortcakes-mfs-3x4-1731-42eb67c8c8c44f3e90452dde7aeb388d.jpg",
+    "category": "popular",
+    "price": 599
+  },
+  {
+    "name": "Brownies",
+    "recipe": "This brownie recipe makes rich, fudgy brownies that always turn out well. They're topped with homemade chocolate frosting to make the best brownies ever!",
+    "image": "https://www.allrecipes.com/thmb/Kb2JR3mIjHjlO60Tq46fB852XhM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/10549best-browniesKimvideo4x3-fc60972f21104322a02b4347b657daed.jpg",
+    "category": "popular",
+    "price": 500
+  },
+  {
+    "name": "Cherry Crunch Dessert",
+    "recipe": "For those who love cheesecake, but don't like the heavy texture or the time it takes to make a traditional cheesecake, this cherry crunch dessert may just be what you're looking for.",
+    "image": "https://www.allrecipes.com/thmb/PZgr60nAlvxswF0dBTwrNgQT64Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/852400-Cherry-Crunch-Dessert-thedailygourmet-4x3-1-54d1ca9ef9c94709b51e1a982ff092ec.jpg",
+    "category": "popular",
+    "price": 599.67
+  },
+  {
+    "name": "French Apple Cake",
+    "recipe": "This French apple cake is incredibly delicious. France is famous for its fabulously fancy pastries and baked goods, so you might get some skeptic looks when you tell them that this is your favorite apple cake – but trust me – this simple, rustic, easy to make cake is absolutely amazing.",
+    "image": "https://www.allrecipes.com/thmb/Y9wOx-NGQVr2F8_PDs55kzQXMgI=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7963451FrenchAppleCakeChefJohn4x3-20187dca9e214f569450a6f4d3ad219d.jpg",
+    "category": "dessert",
+    "price": 899
+  },
+  {
+    "name": "Strawberry Cheese Cake",
+    "recipe": "This strawberry tres leches cake is a delicious summertime treat. A moist but light cake soaked in fresh strawberry milk and topped with whipped cream and fresh strawberries. The strawberry milk is the key to imparting maximum strawberry flavor into the cake.",
+    "image": "https://www.allrecipes.com/thmb/KG1mgolZqchlE4RL7mFzitRJT5I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8652738-strawberry-tres-leches-cake-ddmfs-5419-hero-3x4-725b2a639ed94554ac3ae09573f6c423.jpg",
+    "category": "dessert",
+    "price": 875
+  },
+  {
+    "name": "Banana Pudding",
+    "recipe": "Dolly Parton and her sister Rachel Parton Geroge grew up with their mama, grandmas, and aunts making this classic dessert from scratch.",
+    "image": "https://www.allrecipes.com/thmb/_sRnQ1LZJ8R0SUPkbVWNFXzvGto=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8707679-mamas-banana-pudding-4x3-2b1439f987664c7d83377974fb8761fe.jpg",
+    "category": "dessert",
+    "price": 130
+  },
+  {
+    "name": "Strawberry Mousse",
+    "recipe": "You must make these strawberry mousse shooters—it just doesn’t get much easier than this for a simple, yet elegant dessert. I like to pipe the mousse into shooter glasses for a lovely presentation. This also may be served in small dessert dishes",
+    "image": "https://www.allrecipes.com/thmb/7FEmvfnqTfNa3--Xqw-G96LOhZs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8670298_Strawberry-Mousse-Shooters_Pat-Bernitt_4x3-4ee14c9d0c2946eeaa9cd73bfbf502ee.jpg",
+    "category": "dessert",
+    "price": 70
+  },
+  {
+    "name": "Raspberry Mousse",
+    "recipe": "This wild raspberry mousse is light as air, slightly sweet, and very berry-forward. If black raspberries are difficult to find, red raspberries or blackberries make an excellent substitute",
+    "image": "https://www.allrecipes.com/thmb/yPbdb7TDcchlBlb8thQwwWn8W74=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8675658_Wild-Raspberry-Mousse_Kim-Shupe_4x3-12aa1366ecf44e228c38cb12388c845c.jpg",
+    "category": "popular",
+    "price": 175
+  },
+  {
+    "name": "Plum Cake",
+    "recipe": "This pretty plum cake is made with a buttery sponge cake recipe, topped with sliced plums, cinnamon, and sugar before being baked to perfection for a delicious way of using fresh plums when in season. Serve with whipped cream",
+    "image": "https://www.allrecipes.com/thmb/GX5nq0oimMB7fVI5SvTBrA9JVyk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9060371-965f63dfadaf43f5ac8ad3fb0d3ed03e.jpg",
+    "category": "dessert",
+    "price": 250
+  },
+  {
+    "name": "Lemon Blueberry Pie",
+    "recipe": "I love blueberry pie, but sometimes it can taste a little ...monochromatic. Here, lemon zest, lemon juice, and diced preserved lemon add a burst of bright flavor to every bite.",
+    "image": "https://www.allrecipes.com/thmb/nRpxIV92uRszXIGkqY5O7KR0lnQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Preserved-Lemon-Blueberry-Pie-4x3-75af5550f2964e8a8bc7fc5ae96b67d0.jpg",
+    "category": "dessert",
+    "price": 1050
+  },
+  {
+    "name": "Delicious Ham and Potato Soup",
+    "recipe": "This ham and potato soup recipe was given to me by a friend. It's delicious and easy to make",
+    "image": "https://www.allrecipes.com/thmb/fDcsAVVIPA168U9HazLZmdzl_LU=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-recipe-56927-delicious-ham-and-potato-soup-hero-01-ddmfs-4x3-c5438ce16a834a8690fdca5ee2f1acff.jpg",
+    "category": "soup",
+    "price": 399
+  },
+  {
+    "name": "Fennel Soup",
+    "recipe": "This fennel soup tastes like a mixture of mild onion and anise in a rich, buttery broth. It's so easy to prepare, and it tastes so good!",
+    "image": "https://www.allrecipes.com/thmb/nliBFaVqBnq5abYbSE54wdPjHYU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/16186-1cce0ad4a90d4653bb41c2f22b8c93b5.jpg",
+    "category": "popular",
+    "price": 587
+  },
+  {
+    "name": "Roast Duck Breast",
+    "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+    "image": "/images/recipes/img2.png",
+    "category": "offered",
+    "price": 14.5
+  },
+  {
+    "name": "Orange Blender Cake",
+    "recipe": "This whole orange blender cake is a pretty domed loaf, nicely sweet with big orange flavor, and even a tantalizing hint of delightful bitterness",
+    "image": "https://www.allrecipes.com/thmb/kUHrT05C4KIEUWHy3506w_l0FbE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8769291-Whole-Orange-Blender-Cake-ddmfs-beauty-10838-602e6425d40243bb99c75db564d791db.jpg",
+    "category": "dessert",
+    "price": 540
+  },
+  {
+    "name": "Chicken Tortilla Soup",
+    "recipe": "This comforting chicken tortilla soup with shredded chicken, black beans, and corn is quick to make, full of flavor, and very filling! Garnish with chopped fresh avocado, Monterey Jack cheese, crushed tortilla chips, and green onion",
+    "image": "https://www.allrecipes.com/thmb/u16pvgZvnXPUEtREcefnrMTx2o8=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13351-chicken-tortilla-soup-i-DDMFS-4x3-746173decf5548e581fd08e713a8adba.jpg",
+    "category": "soup",
+    "price": 720
+  },
+  {
+    "name": "Veggie Pizza",
+    "recipe": "When I make this veggie pizza, I never have leftovers. I like to top it with broccoli, radish, onion, bell pepper, carrot, and celery",
+    "image": "https://www.allrecipes.com/thmb/jy6BvN7uphHoqMTbQw-UJO-hc3k=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-15022-veggie-pizza-DDMFS-4x3-hero-3dabf0783ef544eeaa23bdf28b48b178.jpg",
+    "category": "popular",
+    "price": 429
+  },
+  {
+    "name": "Turkey Wild Rice Soup",
+    "recipe": "This turkey wild rice soup with a creamy broth, tender rice, and chunks of turkey will warm your home and your heart",
+    "image": "https://www.allrecipes.com/thmb/n64vivG5XIJgTRpzV_T6YsygWKw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-212664-Turkey-Wild-Rice-Soup-ddmfs-hero-4x3-d0558ddc9dc046a38999abc99dea6236.jpg",
+    "category": "soup",
+    "price": 1111.74
+  },
+  {
+    "name": "Cream Sheet Cake",
+    "recipe": "This tasty poke cake takes inspiration from tres leches cake, but incorporates zest orange flavor for a dreamy creamsicle twist.",
+    "image": "https://www.allrecipes.com/thmb/fAw0IMmS5_2LX2MaMlKAb3yEcv0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-8783024-creamsicle-sheet-cake-VAT-4x3-ee7569bd97634a66b8fd8deb9286acc3.jpg",
+    "category": "dessert",
+    "price": 600
+  },
+  {
+    "name": "Hummus Pizza",
+    "recipe": "This pizza uses hummus instead of the usual red sauce—a unique and healthy pizza for those bored with the traditional.",
+    "image": "https://www.allrecipes.com/thmb/-O_QMFPtuXAzMtHJEbHeROe2dQc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hummus-Pizza-2000-d67527e595b9492b8f6c82d005f2b9b4.jpg",
+    "category": "popular",
+    "price": 725
+  },
+  {
+    "name": "Ricardo's Pizza Crust",
+    "recipe": "This is a magnificent Italian flavored crust for the bread machine.",
+    "image": "https://www.allrecipes.com/thmb/R9K-GUuD0E-VHk-6B1qcHQsST3o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7809826-33a1d86a70284c5d8285b1e132b24232.jpg",
+    "category": "pizza",
+    "price": 1412.7
+  },
+  {
+    "name": "Eggs Benedict Pizza",
+    "recipe": "Super easy-to-make pizza with all the great flavor of eggs Benedict. Feeds a crowd.",
+    "image": "https://www.allrecipes.com/thmb/30ndjDFOIwB4BXI57QTqU-7GcQk=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6469590_Eggs-Benedict-Breakfast-Pizza-4x3-5f24b1e1ae8b443198efa9b212e7889b.jpg",
+    "category": "pizza",
+    "price": 855.34
+  },
+  {
+    "name": "Stuffed Pepper Soup",
+    "recipe": "his stuffed pepper soup is easy to make for a hearty meal in one bowl. Great with warm bread for a comforting dinner.",
+    "image": "https://www.allrecipes.com/thmb/kpYQ0k4FELfJIQd4JMW9S7qOvQM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/13378-stuffed-pepper-soup-iv-DDMFS-4x3-52d77e5cb99b49af86a84a2535f08cbe.jpg",
+    "category": "soup",
+    "price": 1199
+  },
+  {
+    "name": "Mike's Homemade Pizza",
+    "recipe": "Make this homemade pizza with basic ingredients, then top it with any of your favorite toppings",
+    "image": "https://www.allrecipes.com/thmb/ooZbu_yUBrGQ74uKbuOENWuNxMM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/48727-Mikes-homemade-pizza-DDMFS-beauty-4x3-BG-2974-a7a9842c14e34ca699f3b7d7143256cf.jpg",
+    "category": "pizza",
+    "price": 85
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "recipe": "This BBQ chicken pizza has spicy barbecue sauce, diced chicken, peppers, onion, and cilantro, all covered with cheese and baked to bubbly goodness",
+    "image": "https://www.allrecipes.com/thmb/wSqQsq5SC-wy_7Ys7RkYJdDWwTo=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg",
+    "category": "pizza",
+    "price": 229
+  },
+  {
+    "name": "Pepperoni Pizza Muffins",
+    "recipe": "These easy pepperoni pizza muffins are super easy, delicious, and ready in less than 30 minutes!",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4526673.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "pizza",
+    "price": 427.69
+  },
+  {
+    "name": "Pizza Casserole",
+    "recipe": "This pizza casserole recipe takes all the good things we love on pizza and combines them with egg noodles to form a great one-dish casserole to feed your family",
+    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F639577.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
+    "category": "pizza",
+    "price": 550
+  },
+  {
+    "name": "Pepperoni Pizza Casserole",
+    "recipe": "This recipe for cheesy pepperoni pizza casserole includes all of your favorite pizza toppings",
+    "image": "https://www.allrecipes.com/thmb/V46Ve-dBWzbxq6tcgUkVQ3srlWE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1030039-3277963147494f1d8e1b30ffcb215bc1.jpg",
+    "category": "pizza",
+    "price": 499
+  }
+]
