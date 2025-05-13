@@ -69,14 +69,6 @@ app.use("/payments", paymentRoutes);
 app.use("/contact", contactRoutes);
 app.use("/admin/stats", statsRoutes);
 
-// Serve static files from React build folder
-app.use(express.static(path.join(__dirname, "./client/build")));
-
-// Fallback route for all unmatched requests
-app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "./client/build/index.html"));
-});
-
 // stripe payment routes
 // Create a PaymentIntent with the order amout and currency
 app.post("/create-payment-intent", async (req, res) => {
